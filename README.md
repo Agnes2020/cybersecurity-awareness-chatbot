@@ -1,0 +1,5 @@
+CapstoneSourceCode
+This Product is a chatbot that is implemented on WhatsApp.
+The Videos include a demonstration of the Chatbot on WhatsApp as well as a video of how the Chatbot is trained using Watson Assistant service from IBM Cloud.
+How the Chatbot is used is detailed in the final report.
+To access the Bot on Whatsapp, Send a WhatsApp message from your device to +1 415 523 8886 with code join perfect-present.
